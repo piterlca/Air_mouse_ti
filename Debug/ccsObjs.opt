@@ -1,0 +1,1 @@
+"./Clksetting.obj" "./TaskMgr.obj" "./TimerInit.obj" "./i2c_conf.obj" "./i2c_configuration.obj" "./main.obj" "./Ring_buffer/ring_buffer.obj" "./MPU-6050/MPU-6050.obj" "./I2C/i2c_pvt.obj" "../lnk_msp430fr4133.cmd" -l"libc.a" 
